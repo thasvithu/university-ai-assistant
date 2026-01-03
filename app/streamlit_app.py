@@ -23,6 +23,14 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
+# Force light mode theme
+st.markdown("""
+<script>
+    // Force light mode
+    window.parent.document.body.classList.remove('dark-mode');
+</script>
+""", unsafe_allow_html=True)
+
 # Custom CSS for university branding
 st.markdown("""
 <style>
