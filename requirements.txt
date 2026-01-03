@@ -1,3 +1,34 @@
+# Core utilities
 requests
 python-dotenv
+
+# Web scraping
 firecrawl-py
+beautifulsoup4
+
+# PDF processing
+PyPDF2
+pypdf
+
+# LLM APIs
+groq
+openai
+
+# Embeddings and vector store
+sentence-transformers
+chromadb
+langchain
+langchain-community
+langchain-chroma
+
+# Streamlit UI
+streamlit
+streamlit-chat
+
+# Data processing
+pandas
+numpy
+
+# Utilities
+tqdm
+pydantic
