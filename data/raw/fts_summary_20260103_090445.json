@@ -1,0 +1,25 @@
+{
+  "timestamp": "20260103_090445",
+  "faculty": "FTS",
+  "base_url": "https://fts.vau.ac.lk/",
+  "statistics": {
+    "total_pages": 10,
+    "successfully_scraped": 10,
+    "failed": 0
+  },
+  "total_documents": 10,
+  "total_words": 618,
+  "total_chars": 6837,
+  "urls": [
+    "https://fts.vau.ac.lk/",
+    "https://fts.vau.ac.lk/about/",
+    "https://fts.vau.ac.lk/programs/",
+    "https://fts.vau.ac.lk/departments/",
+    "https://fts.vau.ac.lk/admissions/",
+    "https://fts.vau.ac.lk/faculty/",
+    "https://fts.vau.ac.lk/research/",
+    "https://fts.vau.ac.lk/news/",
+    "https://fts.vau.ac.lk/events/",
+    "https://fts.vau.ac.lk/contact/"
+  ]
+}

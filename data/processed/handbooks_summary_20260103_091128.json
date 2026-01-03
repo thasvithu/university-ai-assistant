@@ -1,0 +1,22 @@
+{
+  "timestamp": "20260103_091128",
+  "statistics": {
+    "total_pdfs": 1,
+    "successfully_processed": 1,
+    "failed": 0,
+    "total_pages": 102
+  },
+  "total_handbooks": 1,
+  "total_pages": 100,
+  "total_words": 25079,
+  "handbooks": [
+    {
+      "file": "FTS-DICT-HB-2022.pdf",
+      "faculty": "FTS",
+      "department": "DICT",
+      "year": 2022,
+      "pages": 100,
+      "words": 25079
+    }
+  ]
+}
